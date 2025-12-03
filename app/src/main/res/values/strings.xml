@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">EuroYenConverter</string>
-    <string name="app_title">Conversor Euro a Yen</string>
-    <string name="hint_euros">Introduce la cantidad en Euros (€)</string>
-    <string name="btn_convertir">CONVERTIR</string>
-    <string name="resultado_base">El resultado en yenes aparecerá aquí.</string>
-    <string name="resultado_yenes">Resultado: %s Yenes (¥)</string>
-    <string name="error_vacio">Por favor, introduce una cantidad válida.</string>
-</resources>
